@@ -11,7 +11,7 @@ To start using it:
     
 Then launch your miner as decribed in the [MAGI miner repository](http://github.com/magi-project/m-cpuminer-v2).
 
-If you find this container usefull, consider making a donation with MAGI Coin at my address:
+If you find this container useful for you, consider making a donation with MAGI Coin at my address:
 
     XMG wallet:  9KSmLWgqaXhG4YBSVmSYvF8CQiQLPyp4C5
     
